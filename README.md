@@ -14,6 +14,7 @@ Download this repo as a .zip and extract wherever
 then run dotfilegrabber.py and it should open a gui for you to use :)
 
 it spits both styles.css & config.yaml into the Documents directory,
-(C:/Users/(username)/Documents
+
+(C:/Users/(username)/Documents)
 
 Written in Python & PowerShell Script :)
